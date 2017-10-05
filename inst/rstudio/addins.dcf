@@ -1,0 +1,4 @@
+Name: Add Two Spaces
+Description: Add two spaces at the cursor position.
+Binding: addTwoSpaces
+Interactive: false
