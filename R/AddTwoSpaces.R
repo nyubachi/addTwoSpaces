@@ -1,3 +1,3 @@
-addTWoSpaces <- function() {
+addTwoSpaces <- function() {
   rstudioapi::insertText("  ")
 }
