@@ -1,9 +1,10 @@
 Package: AddTwoSpaces
+Type: Package
 Title: AddTwoSpaces
-Version: 0.0.0.9000
-Authors@R: person("nyubachi", email = "nyubachi248@gmail.com")
+Version: 0.1.0
+Author: nyubachi
+Maintainer: The package maintainer <nyubachi248@gmail.com>
 Description: Enter two spaces for a new line in R Markdown.
-Depends: R (>= 3.4.2)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
